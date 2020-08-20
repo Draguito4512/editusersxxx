@@ -1,0 +1,79 @@
+{
+	"changelog": {
+		"currentversion": "3.9.4"
+	},
+	"settings": {
+		"changeInActivity": true,
+		"changeInAppTitle": true,
+		"changeInAuditLog": true,
+		"changeInAutoComplete": true,
+		"changeInChatTextarea": true,
+		"changeInChatWindow": true,
+		"changeInContextMenu": true,
+		"changeInDmCalls": true,
+		"changeInDmHeader": true,
+		"changeInDmsList": true,
+		"changeInEmojiLog": true,
+		"changeInFriendList": true,
+		"changeInInviteList": true,
+		"changeInMemberList": true,
+		"changeInMemberLog": true,
+		"changeInMentions": true,
+		"changeInQuickSwitcher": true,
+		"changeInReactions": true,
+		"changeInRecentDms": true,
+		"changeInSearchPopout": true,
+		"changeInTyping": true,
+		"changeInUserAccount": true,
+		"changeInUserPopout": true,
+		"changeInUserProfile": true,
+		"changeInVoiceChat": true
+	},
+	"users": {
+		"294880755660619777": {
+			"color1": null,
+			"color2": null,
+			"color3": null,
+			"color4": null,
+			"color5": null,
+			"ignoreTagColor": false,
+			"name": null,
+			"removeIcon": false,
+			"removeStatus": false,
+			"status": null,
+			"statusEmoji": null,
+			"tag": null,
+			"url": "https://cdn.discordapp.com/attachments/462789225255927819/745965757053272144/tenor.gif"
+		},
+		"226797807250571275": {
+			"color1": null,
+			"color2": null,
+			"color3": null,
+			"color4": null,
+			"color5": null,
+			"ignoreTagColor": false,
+			"name": null,
+			"removeIcon": false,
+			"removeStatus": false,
+			"status": null,
+			"statusEmoji": null,
+			"tag": null,
+			"url": "https://media.discordapp.net/attachments/487805605722062879/746016956884451499/a_150d224f390e0f2818fe88b18561157c.gif?width=193&height=193"
+		},
+		"179648281377374210": {
+			"color1": null,
+			"color2": null,
+			"color3": null,
+			"color4": null,
+			"color5": null,
+			"ignoreTagColor": false,
+			"name": null,
+			"removeIcon": false,
+			"removeStatus": false,
+			"status": null,
+			"statusEmoji": null,
+			"tag": null,
+			"url": "https://cdn.discordapp.com/attachments/419323876737024000/746020033276149990/ezgif.com-gif-maker.gif"
+		}
+	}
+}
